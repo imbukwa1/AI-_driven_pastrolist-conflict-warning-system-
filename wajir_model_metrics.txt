@@ -1,0 +1,4 @@
+County: Wajir
+Scored period (t): 2021-07-28
+ROC-AUC: 0.5955
+PR-AUC : 0.3881
